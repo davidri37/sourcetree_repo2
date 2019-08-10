@@ -6,3 +6,7 @@ D:\sourcetree_repo2\index.txt
 
 master에 등록후 atom에서
 1번째로 수정합니다
+
+index.txt 수정 2번째로
+
+atom에서 수정합니다
