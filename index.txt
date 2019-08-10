@@ -10,3 +10,8 @@ master에 등록후 atom에서
 index.txt 수정 2번째로
 
 atom에서 수정합니다
+
+index.txt 수정 3번째로
+
+atom에서 수정후에
+이제 처음으로 branch를 생성합니다
