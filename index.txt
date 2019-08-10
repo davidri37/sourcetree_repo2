@@ -3,3 +3,6 @@
 
 index.txt 파일을 atom에서 생성합니다
 D:\sourcetree_repo2\index.txt
+
+master에 등록후 atom에서
+1번째로 수정합니다
