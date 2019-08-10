@@ -1,0 +1,5 @@
+# 이 파일은 sourcetree에서 git 연동하여 버전관리하는 작업을 이해하기 위해서
+# 실습해보는 것입니다.
+
+index.txt 파일을 atom에서 생성합니다
+D:\sourcetree_repo2\index.txt
