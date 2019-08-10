@@ -13,5 +13,6 @@ atom에서 수정합니다
 
 index.txt 수정 3번째로
 
-atom에서 수정후에
-이제 처음으로 branch를 생성합니다
+atom에서 4번째로 수정후에
+이제 처음으로 branch "실험2"를 생성합니다
+(여기는 master 것입니다)
